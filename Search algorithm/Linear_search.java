@@ -4,7 +4,7 @@ class linear_search
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("ennter numberof elements");
+        System.out.println("Enter number rof elements");
         int n,c,f,flag;
         n=sc.nextInt();
         int[] array=new int[n];
